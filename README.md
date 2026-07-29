@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Dennis 👋
 
-🚀 **16 anos** | Base em Java e lógica de programação
+🚀 **16 anos** |
 🌱 Agora expandindo pro front-end: **HTML, CSS e JavaScript**
 💬 Aberto a trocar ideia sobre programação e aprendizado!
 
