@@ -16,5 +16,5 @@ Olá! Meu nome é Dennis e estou aprendendo programação do zero em 2026.
 - [Primeiro Projeto](./primeiro-projeto) - Página inicial simples
 
 ## 📞 Contato
-- Email: seu-email@gmail.com
+- Email: melodd6195@gmail.com
 - GitHub: [@seu-usuario](https://github.com/seu-usuario)
